@@ -42,7 +42,7 @@
     "prepare": "bob build"
   },
   "dependencies": {
-    "reactotron-core-client": "workspace:*",
+    "reactotron-core-client": "0.92.0",
     "stacktrace-js": "2.0.1"
   },
   "devDependencies": {
